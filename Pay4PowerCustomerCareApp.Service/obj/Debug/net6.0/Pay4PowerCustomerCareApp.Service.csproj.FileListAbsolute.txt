@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\Pay4PowerCustomerCareApp\Pay4PowerCustomerCareApp.Service\obj\Debug\net6.0\Pay4PowerCustomerCareApp.Service.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Pay4PowerCustomerCareApp\Pay4PowerCustomerCareApp.Service\obj\Debug\net6.0\Pay4PowerCustomerCareApp.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Pay4PowerCustomerCareApp\Pay4PowerCustomerCareApp.Service\obj\Debug\net6.0\Pay4PowerCustomerCareApp.Service.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Pay4PowerCustomerCareApp\Pay4PowerCustomerCareApp.Service\obj\Debug\net6.0\Pay4PowerCustomerCareApp.Service.AssemblyInfo.cs
+C:\Users\USER\source\repos\Pay4PowerCustomerCareApp\Pay4PowerCustomerCareApp.Service\obj\Debug\net6.0\Pay4PowerCustomerCareApp.Service.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Pay4PowerCustomerCareApp\Pay4PowerCustomerCareApp.Service\bin\Debug\net6.0\Pay4PowerCustomerCareApp.Service.deps.json
+C:\Users\USER\source\repos\Pay4PowerCustomerCareApp\Pay4PowerCustomerCareApp.Service\bin\Debug\net6.0\Pay4PowerCustomerCareApp.Service.dll
+C:\Users\USER\source\repos\Pay4PowerCustomerCareApp\Pay4PowerCustomerCareApp.Service\bin\Debug\net6.0\Pay4PowerCustomerCareApp.Service.pdb
+C:\Users\USER\source\repos\Pay4PowerCustomerCareApp\Pay4PowerCustomerCareApp.Service\bin\Debug\net6.0\Pay4PowerCustomerCareApp.Core.dll
+C:\Users\USER\source\repos\Pay4PowerCustomerCareApp\Pay4PowerCustomerCareApp.Service\bin\Debug\net6.0\Pay4PowerCustomerCareApp.Data.dll
+C:\Users\USER\source\repos\Pay4PowerCustomerCareApp\Pay4PowerCustomerCareApp.Service\bin\Debug\net6.0\Pay4PowerCustomerCareApp.Core.pdb
+C:\Users\USER\source\repos\Pay4PowerCustomerCareApp\Pay4PowerCustomerCareApp.Service\bin\Debug\net6.0\Pay4PowerCustomerCareApp.Data.pdb
+C:\Users\USER\source\repos\Pay4PowerCustomerCareApp\Pay4PowerCustomerCareApp.Service\obj\Debug\net6.0\Pay4PowerCustomerCareApp.Service.csproj.CopyComplete
+C:\Users\USER\source\repos\Pay4PowerCustomerCareApp\Pay4PowerCustomerCareApp.Service\obj\Debug\net6.0\Pay4PowerCustomerCareApp.Service.dll
+C:\Users\USER\source\repos\Pay4PowerCustomerCareApp\Pay4PowerCustomerCareApp.Service\obj\Debug\net6.0\refint\Pay4PowerCustomerCareApp.Service.dll
+C:\Users\USER\source\repos\Pay4PowerCustomerCareApp\Pay4PowerCustomerCareApp.Service\obj\Debug\net6.0\Pay4PowerCustomerCareApp.Service.pdb
+C:\Users\USER\source\repos\Pay4PowerCustomerCareApp\Pay4PowerCustomerCareApp.Service\obj\Debug\net6.0\ref\Pay4PowerCustomerCareApp.Service.dll

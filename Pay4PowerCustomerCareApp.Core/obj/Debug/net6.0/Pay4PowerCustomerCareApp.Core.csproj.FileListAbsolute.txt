@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\Pay4PowerCustomerCareApp\Pay4PowerCustomerCareApp.Core\bin\Debug\net6.0\Pay4PowerCustomerCareApp.Core.deps.json
+C:\Users\USER\source\repos\Pay4PowerCustomerCareApp\Pay4PowerCustomerCareApp.Core\bin\Debug\net6.0\Pay4PowerCustomerCareApp.Core.dll
+C:\Users\USER\source\repos\Pay4PowerCustomerCareApp\Pay4PowerCustomerCareApp.Core\bin\Debug\net6.0\Pay4PowerCustomerCareApp.Core.pdb
+C:\Users\USER\source\repos\Pay4PowerCustomerCareApp\Pay4PowerCustomerCareApp.Core\obj\Debug\net6.0\Pay4PowerCustomerCareApp.Core.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Pay4PowerCustomerCareApp\Pay4PowerCustomerCareApp.Core\obj\Debug\net6.0\Pay4PowerCustomerCareApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Pay4PowerCustomerCareApp\Pay4PowerCustomerCareApp.Core\obj\Debug\net6.0\Pay4PowerCustomerCareApp.Core.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Pay4PowerCustomerCareApp\Pay4PowerCustomerCareApp.Core\obj\Debug\net6.0\Pay4PowerCustomerCareApp.Core.AssemblyInfo.cs
+C:\Users\USER\source\repos\Pay4PowerCustomerCareApp\Pay4PowerCustomerCareApp.Core\obj\Debug\net6.0\Pay4PowerCustomerCareApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Pay4PowerCustomerCareApp\Pay4PowerCustomerCareApp.Core\obj\Debug\net6.0\Pay4PowerCustomerCareApp.Core.dll
+C:\Users\USER\source\repos\Pay4PowerCustomerCareApp\Pay4PowerCustomerCareApp.Core\obj\Debug\net6.0\refint\Pay4PowerCustomerCareApp.Core.dll
+C:\Users\USER\source\repos\Pay4PowerCustomerCareApp\Pay4PowerCustomerCareApp.Core\obj\Debug\net6.0\Pay4PowerCustomerCareApp.Core.pdb
+C:\Users\USER\source\repos\Pay4PowerCustomerCareApp\Pay4PowerCustomerCareApp.Core\obj\Debug\net6.0\ref\Pay4PowerCustomerCareApp.Core.dll

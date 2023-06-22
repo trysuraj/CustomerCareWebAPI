@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Pay4PowerCustomerCareApp.props" />
+</Project>
